@@ -245,6 +245,7 @@ a {
 }
 
 
+
 .section5 .input1 {
     background: rgb(215, 144, 44);
     background: linear-gradient(90deg, rgb(34, 206, 229) 0%, rgba(29, 207, 29, 0.763) 100%);
@@ -253,7 +254,7 @@ a {
     padding: 60px;
     display: flex;
     justify-content: center;
-    margin: 20px 40px 110px 40px;
+    margin: 20px 40px 110px 400px;
 }
 
 .input1 input {
