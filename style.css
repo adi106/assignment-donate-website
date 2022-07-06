@@ -217,6 +217,7 @@ a {
     padding-left: 5px;
     padding: 20px;
     padding-bottom: 5px;
+    border-radius: 20px;
 }
 
 .half-width4 p {
@@ -234,4 +235,87 @@ a {
     font-size: 50px;
     font-style: bold;
     color: black;
+}
+
+.updateheading h1 {
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+
+.section5 .input1 {
+    background: rgb(215, 144, 44);
+    background: linear-gradient(90deg, rgb(34, 206, 229) 0%, rgba(29, 207, 29, 0.763) 100%);
+    border-radius: 5px;
+    width: 40%;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+    margin: 20px 40px 110px 40px;
+}
+
+.input1 input {
+    outline: none;
+    border-style: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: #dddddd;
+}
+
+.section5 .input1 a {
+    background-color: #cf1212;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.section5 .updateheading h1 {
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section5 .updatedetails p {
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    background-color: #0B0D17;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.grey {
+    color: white;
+}
+
+footer p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 30px 0;
+}
+
+footer h3 {
+    font-weight: bold;
+    font-size: 35px;
+    padding: 30px 0;
 }
