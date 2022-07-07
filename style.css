@@ -301,7 +301,7 @@ footer {
 }
 
 .red {
-    color: brown;
+    color: rgba(209, 139, 106, 0.763);
 }
 
 .grey {
@@ -373,7 +373,7 @@ footer h3 {
 }
 
 .indigo {
-    color: brown;
+    color: rgba(209, 139, 106, 0.763);
 }
 
 .youtube {
