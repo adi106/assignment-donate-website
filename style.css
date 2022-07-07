@@ -267,7 +267,7 @@ a {
 }
 
 .section5 .input1 a {
-    background-color: #cf1212;
+    background-color: #e4a778;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -279,8 +279,7 @@ a {
 .section5 .updateheading h1 {
     font-weight: bold;
     font-size: 45px;
-    margin-bottom: 0;
-    margin-top: 0;
+    margin-top: 100px;
     color: black;
     align-items: center;
     justify-content: center;
@@ -358,6 +357,7 @@ footer h3 {
     background-position: center;
     width: 100%;
     height: 100%;
+    margin-top: 100px;
 
 }
 
@@ -370,4 +370,29 @@ footer h3 {
 
 .indigo {
     color: indigo;
+}
+
+.youtube {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.youtubehead {
+    text-align: center;
+    margin-left: 200px;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.youtubevdo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    padding-left: 190px;
+}
+
+.youtubehead h2 {
+    font-size: 35px;
 }
